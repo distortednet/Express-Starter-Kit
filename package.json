@@ -1,0 +1,19 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "basic app template",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cookie-parser": "^1.3.5",
+    "swig": "^1.4.2",
+    "express-session": "^1.11.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
